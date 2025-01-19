@@ -1,0 +1,1379 @@
+.row {
+  margin: 0;
+  max-width: 100%;
+}
+.div-between {
+  margin-top: 40px;
+}
+.h5-replant {
+  font-weight: bold;
+  font-size: 21px;
+}
+.p-welcome-back {
+  font-size: 14px;
+  opacity: 0.7;
+  font-weight: 500;
+}
+.input-search {
+  border: none;
+  border-radius: 5px;
+  padding: 12px 60px 12px 25px;
+  margin-left: 96px;
+  font-size: 13px;
+}
+.input-search::placeholder {
+  font-size: 13px;
+  transform: translateY(-2px);
+  color: rgba(0, 0, 0, 0.703);
+}
+.fa-magnifying-glass {
+  transform: translate(-40px, -1px);
+  color: rgba(0, 0, 0, 0.625);
+}
+.fa-comment-dots {
+  margin: 6px 0 0 7px;
+  font-size: 20px;
+}
+.fa-bell {
+  margin: 6px 0 0 8px;
+  font-size: 20px;
+}
+.div-top {
+  cursor: pointer;
+  width: 33px;
+  height: 33px;
+  margin: 12px 20px 0 0;
+  border-radius: 5px;
+}
+.img-profile {
+  width: inherit;
+  height: inherit;
+  border-radius: inherit;
+}
+.video-leaf {
+  object-fit: cover;
+  border-radius: 10px;
+  margin-left: -10px;
+}
+.div-inside-video {
+  margin: -175px 0 0 15px;
+}
+.div-inside-video p {
+  font-size: 14px;
+}
+.button-explore-more {
+  margin-left: -10px;
+  border-radius: 5px;
+  background-color: white;
+  color: rgb(84, 151, 84);
+  padding: 10.5px 22px;
+  font-size: 14px;
+  border: none;
+  cursor: pointer;
+  transition: 0.5s linear;
+}
+.button-top-sellers {
+  margin-left: -30px;
+  border: 2px solid white;
+  color: white;
+  border-radius: 5px;
+  padding: 9px 22px;
+  font-size: 14px;
+  cursor: pointer;
+  background-color: transparent;
+  transition: 0.5s linear;
+}
+.button-explore-more:hover {
+  background-color: #def7cd;
+  color: black;
+}
+.button-top-sellers:hover {
+  background-color: #def7cd;
+  color: black;
+  border: none;
+  padding: 10.5px 22px;
+}
+.div-my-stat {
+  background-color: #def7cd;
+  border-radius: 5px;
+  margin-left: -20px;
+  padding-bottom: 10px;
+}
+.div-my-stat h5 {
+  font-weight: bold;
+  font-size: 21px;
+  margin-top: 35px;
+}
+.div-my-stat p,
+.div-my-stat a {
+  font-weight: 500;
+  font-size: 15px;
+}
+.div-my-stat i {
+  font-size: 10px;
+  margin-left: 30px;
+  transition: 0.5s linear;
+}
+.div-my-stat a {
+  text-decoration: none;
+  margin-top: 10px;
+}
+.div-my-stat a:hover i {
+  margin-left: 50px;
+}
+.p-orders {
+  color: green;
+  margin-top: -10px;
+}
+.img-plant-stat {
+  width: 140px;
+  height: 220px;
+  margin: -20px 0 0 -35px;
+}
+.img-lamp {
+  width: 65px;
+  height: 275px;
+  margin: -40px 0 0 10px;
+}
+.p-listings {
+  margin-left: -10px;
+  font-weight: bold;
+  font-size: 18px;
+}
+.p-listings-two {
+  margin-left: -20px;
+  font-weight: bold;
+  font-size: 18px;
+}
+.p-listings-three {
+  margin-left: -17px;
+  font-weight: bold;
+  font-size: 18px;
+}
+.button-see-all {
+  margin-top: -55px;
+  border: none;
+  color: rgba(0, 0, 0, 0.699);
+  font-size: 14px;
+  font-weight: 500;
+  background-color: transparent;
+  transition: 0.5s linear;
+}
+.button-see-all i {
+  font-size: 10px;
+  margin-left: 8px;
+  color: rgba(0, 0, 0, 0.699);
+  transform: translateY(-1px);
+  transition: 0.5s linear;
+}
+.button-see-all:hover i {
+  margin-left: 10px;
+  color: black;
+}
+.button-see-all:hover {
+  color: black;
+}
+.button-margin-top {
+  margin-top: -57.3px;
+}
+.button-margin-top-two {
+  margin-top: -58.5px;
+}
+.div-plant-card {
+  margin-left: -25px;
+}
+.plant-card {
+  background-color: #dcdedc;
+  border-radius: 5px;
+  margin-left: 15px;
+  width: 165px;
+  height: 175px;
+  padding: 10px 0;
+}
+.div-heart i {
+  color: #569a2a;
+}
+.div-heart i:hover {
+  cursor: pointer;
+}
+.plant-card img {
+  width: 120px;
+  height: 120px;
+}
+.img-plant-one {
+  margin-top: -15px;
+}
+.img-plant-two {
+  margin-top: -16px;
+}
+.img-plant-three {
+  margin-top: -10px;
+}
+.img-plant-four {
+  margin-top: -18px;
+}
+.div-plant-card p {
+  font-weight: bold;
+  font-size: 15px;
+}
+.p-plant-two {
+  margin-top: 6px;
+}
+.p-plant-three {
+  margin-top: 0.5px;
+}
+.p-plant-four {
+  margin-top: 7.5px;
+}
+.margin-to-top-one {
+  margin-top: -58px !important;
+}
+.margin-to-top-two {
+  margin-top: -61px !important;
+}
+.div-sellers {
+  background-color: white;
+  border-radius: 10px;
+  padding: 14px 35px 11px 15px;
+  margin: -5px 0 0 -23px;
+  width: 347px;
+}
+.div-circle-person img {
+  margin-left: 5px;
+  width: 25px;
+  height: 25px;
+  transition: 0.5s linear;
+}
+.div-circle-person img:hover {
+  margin-top: -7px;
+}
+.div-line-center {
+  margin-left: 35px;
+}
+.div-line-center div {
+  width: 2px;
+  height: 30px;
+  background-color: #a2a2a2;
+  margin-top: -2.5px;
+}
+.div-plant-sold {
+  margin-left: 35px;
+}
+.div-sellers-days {
+  margin-top: -17.5px;
+  height: 15px;
+}
+.div-margin-left {
+  transform: translateX(5px);
+}
+.p-plant-sold {
+  font-size: 13.5px;
+  font-weight: 500;
+  margin-top: -5px;
+}
+.p-sellers {
+  font-size: 11.5px;
+}
+.p-days {
+  font-size: 11.5px;
+  font-weight: 500;
+}
+.div-people-ordered {
+  margin-left: -10px;
+}
+.div-people-ordered:hover {
+  cursor: pointer;
+}
+.div-people-ordered img {
+  width: 40px;
+  height: 40px;
+  float: left;
+}
+.div-people-ordered p {
+  font-weight: 500;
+  margin: -3px 0 0 50px;
+  font-size: 15px;
+}
+.div-people-ordered .span-people {
+  font-size: 12.5px;
+  margin: 18px 0 0 10px;
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.699);
+}
+.div-people-ordered .span-time {
+  font-size: 12.5px;
+  margin-left: 10px;
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.699);
+}
+.margin-for-people {
+  margin-top: 60px;
+}
+@media screen and (min-width: 5001px) and (max-width: 10000px) {
+  .div-plant-card {
+    margin-left: -780px;
+  }
+  .plant-card {
+    margin-left: 770px;
+  }
+  .p-listings-three {
+    margin-left: 15px;
+  }
+  .div-margin-left-two {
+    width: 1450px;
+  }
+  .div-margin-left {
+    transform: translateX(38px);
+    width: 1450px;
+  }
+}
+@media screen and (min-width: 3201px) and (max-width: 5000px) {
+  .div-plant-card {
+    margin-left: -530px;
+  }
+  .plant-card {
+    margin-left: 515px;
+  }
+  .p-listings-three {
+    margin-left: 15px;
+  }
+  .div-margin-left-two {
+    width: 1080px;
+  }
+  .div-margin-left {
+    transform: translateX(40px);
+    width: 1060px;
+  }
+}
+@media screen and (min-width: 2501px) and (max-width: 3200px) {
+  .div-plant-card {
+    margin-left: -280px;
+  }
+  .plant-card {
+    margin-left: 266px;
+  }
+  .p-listings-three {
+    margin-left: 15px;
+  }
+  .div-margin-left-two {
+    width: 700px;
+  }
+  .div-margin-left {
+    transform: translateX(40px);
+    width: 690px;
+  }
+}
+@media screen and (min-width: 2100px) and (max-width: 2500px) {
+  .div-plant-card {
+    margin-left: -150px;
+  }
+  .plant-card {
+    margin-left: 140px;
+  }
+  .p-listings-three {
+    margin-left: 15px;
+  }
+  .div-margin-left-two {
+    width: 520px;
+  }
+  .div-margin-left {
+    transform: translateX(40px);
+    width: 500px;
+  }
+}
+@media screen and (min-width: 2050px) and (max-width: 2099px) {
+  .div-plant-card {
+    margin-left: -100px;
+  }
+  .plant-card {
+    margin-left: 97px;
+  }
+  .p-listings-three {
+    margin-left: 30px;
+  }
+  .div-sellers {
+    width: 430px;
+  }
+  .div-margin-left {
+    transform: translateX(50px);
+  }
+}
+@media screen and (min-width: 2050px) and (max-width: 2099px) {
+  .div-plant-card {
+    margin-left: -100px;
+  }
+  .plant-card {
+    margin-left: 97px;
+  }
+  .p-listings-three {
+    margin-left: 30px;
+  }
+  .div-sellers {
+    width: 430px;
+  }
+  .div-margin-left {
+    transform: translateX(50px);
+  }
+}
+@media screen and (min-width: 2000px) and (max-width: 2049px) {
+  .div-plant-card {
+    margin-left: -110px;
+  }
+  .plant-card {
+    margin-left: 99px;
+  }
+  .p-listings-three {
+    margin-left: 20px;
+  }
+  .div-margin-left-two {
+    width: 455px;
+  }
+  .div-margin-left {
+    transform: translateX(40px);
+    width: 440px;
+  }
+}
+@media screen and (min-width: 1951px) and (max-width: 1999px) {
+  .div-plant-card {
+    margin-left: -90px;
+  }
+  .plant-card {
+    margin-left: 85px;
+  }
+  .p-listings-three {
+    margin-left: 19px;
+  }
+  .div-sellers {
+    width: 420px;
+  }
+  .div-margin-left {
+    transform: translateX(37px);
+  }
+}
+@media screen and (min-width: 1900px) and (max-width: 1950px) {
+  .div-plant-card {
+    margin-left: -80px;
+  }
+  .plant-card {
+    margin-left: 75px;
+  }
+  .p-listings-three {
+    margin-left: 17px;
+  }
+  .div-margin-left-two {
+    width: 430px;
+  }
+  .div-margin-left {
+    transform: translateX(37px);
+    width: 410px;
+  }
+}
+@media screen and (min-width: 1850px) and (max-width: 1899px) {
+  .div-plant-card {
+    margin-left: -75px;
+  }
+  .plant-card {
+    margin-left: 67px;
+  }
+  .p-listings-three {
+    margin-left: 13px;
+  }
+  .div-sellers {
+    width: 400px;
+  }
+  .div-margin-left {
+    transform: translateX(30px);
+  }
+}
+@media screen and (min-width: 1800px) and (max-width: 1849px) {
+  .div-plant-card {
+    margin-left: -65px;
+  }
+  .plant-card {
+    margin-left: 60px;
+  }
+  .p-listings-three {
+    margin-left: 15px;
+  }
+  .div-sellers {
+    width: 395px;
+  }
+  .div-margin-left {
+    transform: translateX(30px);
+  }
+}
+@media screen and (min-width: 1751px) and (max-width: 1799px) {
+  .div-plant-card {
+    margin-left: -60px;
+  }
+  .plant-card {
+    margin-left: 53px;
+  }
+  .p-listings-three {
+    margin-left: 10px;
+  }
+  .div-sellers {
+    width: 385px;
+  }
+  .div-margin-left {
+    transform: translateX(27px);
+  }
+}
+@media screen and (min-width: 1726px) and (max-width: 1750px) {
+  .div-plant-card {
+    margin-left: -55px;
+  }
+  .plant-card {
+    margin-left: 48px;
+  }
+  .p-listings-three {
+    margin-left: 7px;
+  }
+  .div-sellers {
+    width: 380px;
+  }
+  .div-margin-left {
+    transform: translateX(25px);
+  }
+}
+@media screen and (min-width: 1726px) and (max-width: 1750px) {
+  .div-plant-card {
+    margin-left: -55px;
+  }
+  .plant-card {
+    margin-left: 48px;
+  }
+  .p-listings-three {
+    margin-left: 7px;
+  }
+  .div-sellers {
+    width: 380px;
+  }
+  .div-margin-left {
+    transform: translateX(25px);
+  }
+}
+@media screen and (min-width: 1700px) and (max-width: 1725px) {
+  .div-plant-card {
+    margin-left: -50px;
+  }
+  .plant-card {
+    margin-left: 43px;
+  }
+  .p-listings-three {
+    margin-left: 0;
+  }
+  .div-sellers {
+    width: 380px;
+  }
+  .div-margin-left {
+    transform: translateX(20px);
+  }
+}
+@media screen and (min-width: 1651px) and (max-width: 1699px) {
+  .div-plant-card {
+    margin-left: -45px;
+  }
+  .plant-card {
+    margin-left: 37px;
+  }
+  .p-listings-three {
+    margin-left: -3px;
+  }
+  .div-sellers {
+    width: 370px;
+  }
+  .div-margin-left {
+    transform: translateX(15px);
+  }
+}
+@media screen and (min-width: 1626px) and (max-width: 1650px) {
+  .div-plant-card {
+    margin-left: -40px;
+  }
+  .plant-card {
+    margin-left: 31px;
+  }
+  .p-listings-three {
+    margin-left: -8px;
+  }
+  .div-sellers {
+    width: 365px;
+  }
+  .div-margin-left {
+    transform: translateX(12px);
+  }
+}
+@media screen and (min-width: 1601px) and (max-width: 1625px) {
+  .div-plant-card {
+    margin-left: -35px;
+  }
+  .plant-card {
+    margin-left: 28px;
+  }
+  .p-listings-three {
+    margin-left: -8px;
+  }
+  .div-sellers {
+    width: 365px;
+  }
+  .div-margin-left {
+    transform: translateX(12px);
+  }
+}
+@media screen and (min-width: 1575px) and (max-width: 1600px) {
+  .div-plant-card {
+    margin-left: -30px;
+  }
+  .plant-card {
+    margin-left: 22px;
+  }
+  .p-listings-three {
+    margin-left: -8px;
+  }
+  .div-sellers {
+    width: 355px;
+  }
+  .div-margin-left {
+    transform: translateX(7px);
+  }
+}
+@media screen and (min-width: 1550px) and (max-width: 1574px) {
+  .plant-card {
+    margin-left: 19px;
+  }
+  .p-listings-three {
+    margin-left: -10px;
+  }
+  .div-sellers {
+    width: 355px;
+  }
+  .div-margin-left {
+    transform: translateX(7px);
+  }
+}
+@media screen and (min-width: 1500px) and (max-width: 1525px) {
+  .plant-card {
+    margin-left: 12px;
+  }
+  .div-sellers {
+    margin: -5px 0 0 -27px;
+    width: 335px;
+    padding: 14px 15px 11px 15px;
+  }
+  .div-margin-left {
+    transform: translateX(7px);
+  }
+}
+
+@media screen and (min-width: 1451px) and (max-width: 1499px) {
+  .plant-card {
+    margin-left: 7px;
+  }
+  .div-sellers {
+    margin: -5px 0 0 -27px;
+    width: 335px;
+    padding: 14px 15px 11px 15px;
+  }
+  .div-margin-left {
+    transform: translateX(7px);
+  }
+}
+@media screen and (min-width: 1400px) and (max-width: 1450px) {
+  .plant-card {
+    margin-left: 5px;
+  }
+  .div-sellers {
+    margin: -5px 0 0 -27px;
+    width: 325px;
+    padding: 14px 15px 11px 10px;
+  }
+  .div-margin-left {
+    transform: translateX(8px);
+  }
+}
+@media screen and (max-width: 1399px) and (min-width: 1351px) {
+  .div-plant-card {
+    margin-left: -20px;
+  }
+  .plant-card {
+    width: 155px;
+    margin-left: 7px;
+  }
+  .div-sellers {
+    margin: -5px 0 0 -27px;
+    width: 320px;
+    padding: 14px 15px 11px 10px;
+  }
+  .div-margin-left {
+    transform: translateX(10px);
+  }
+  .div-line-center {
+    margin-left: 0;
+  }
+  .div-plant-sold {
+    margin-left: 0;
+  }
+}
+@media screen and (max-width: 1350px) and (min-width: 1326px) {
+  .div-plant-card {
+    margin-left: -20px;
+  }
+  .plant-card {
+    width: 150px;
+    margin-left: 7px;
+  }
+  .div-sellers {
+    margin: -5px 0 0 -27px;
+    width: 310px;
+    padding: 14px 15px 11px 10px;
+  }
+  .div-margin-left {
+    transform: translateX(5px);
+  }
+  .div-line-center {
+    margin-left: 0;
+  }
+  .div-plant-sold {
+    margin-left: 0;
+  }
+}
+@media screen and (max-width: 1325px) and (min-width: 1301px) {
+  .div-plant-card {
+    margin-left: -20px;
+  }
+  .plant-card {
+    width: 147px;
+    margin-left: 7px;
+  }
+  .div-sellers {
+    margin: -5px 0 0 -27px;
+    width: 305px;
+    padding: 14px 15px 11px 10px;
+  }
+  .div-margin-left {
+    transform: translateX(10px);
+  }
+  .div-line-center {
+    margin-left: 0;
+  }
+  .div-plant-sold {
+    margin-left: 0;
+  }
+}
+@media screen and (max-width: 1304px) and (min-width: 768px) {
+  .p-orders-margin-top {
+    margin-top: 28px;
+  }
+  .div-my-stat i {
+    margin-left: 20px;
+  }
+  .div-my-stat a:hover i {
+    margin-left: 30px;
+  }
+}
+@media screen and (max-width: 1294px) and (min-width: 992px) {
+  .fa-magnifying-glass {
+    transform: translate(290px, -35px);
+  }
+}
+@media screen and (max-width: 1300px) and (min-width: 1276px) {
+  .div-plant-card {
+    margin-left: -20px;
+  }
+  .plant-card {
+    width: 144px;
+    margin-left: 7px;
+  }
+  .div-sellers {
+    margin: -5px 0 0 -27px;
+    width: 297px;
+    padding: 14px 15px 11px 10px;
+  }
+  .div-margin-left {
+    transform: translateX(9px);
+  }
+  .div-line-center {
+    margin-left: 0;
+  }
+  .div-plant-sold {
+    margin-left: 0;
+  }
+}
+@media screen and (max-width: 1275px) and (min-width: 1226px) {
+  .div-plant-card {
+    margin-left: -15px;
+  }
+  .plant-card {
+    width: 140px;
+    margin-left: 5px;
+  }
+  .div-sellers {
+    margin: -5px 0 0 -27px;
+    width: 280px;
+    padding: 14px 15px 11px 8px;
+  }
+  .div-margin-left {
+    transform: translateX(9px);
+  }
+  .div-line-center {
+    margin-left: 0;
+  }
+  .div-plant-sold {
+    margin-left: 0;
+  }
+}
+@media screen and (max-width: 1250px) and (min-width: 992px) {
+  .img-lamp {
+    margin-left: 20px;
+  }
+}
+@media screen and (max-width: 1234px) and (min-width: 768px) {
+  .div-my-stat a {
+    margin-top: -10px;
+  }
+}
+@media screen and (max-width: 1225px) and (min-width: 1201px) {
+  .div-plant-card {
+    margin-left: -15px;
+  }
+  .plant-card {
+    width: 135px;
+    margin-left: 5px;
+  }
+  .div-sellers {
+    margin: -5px 0 0 -25px;
+    width: 275px;
+    padding: 14px 15px 11px 8px;
+  }
+  .div-margin-left {
+    transform: translateX(8px);
+  }
+  .div-line-center {
+    margin-left: 0;
+  }
+  .div-plant-sold {
+    margin-left: 0;
+  }
+}
+@media screen and (max-width: 1200px) and (min-width: 1151px) {
+  .div-plant-card {
+    margin-left: -15px;
+  }
+  .plant-card {
+    width: 130px;
+    margin-left: 5px;
+  }
+  .div-sellers {
+    margin: -5px 0 0 -25px;
+    width: 265px;
+    padding: 14px 15px 11px 8px;
+  }
+  .div-margin-left {
+    transform: translateX(7px);
+  }
+  .div-line-center {
+    margin-left: 0;
+  }
+  .div-plant-sold {
+    margin-left: 0;
+  }
+}
+@media screen and (max-width: 1150px) and (min-width: 992px) {
+  .margin-to-top-two {
+    margin-top: -58px !important;
+  }
+}
+@media screen and (max-width: 1150px) and (min-width: 1101px) {
+  .div-plant-card {
+    margin-left: -15px;
+  }
+  .plant-card {
+    width: 125px;
+    margin-left: 5px;
+  }
+  .div-sellers {
+    margin: -5px 0 0 -25px;
+    width: 255px;
+    padding: 14px 10px 11px 5px;
+  }
+  .div-margin-left {
+    transform: translateX(7px);
+  }
+  .div-line-center {
+    margin-left: 0;
+  }
+  .div-plant-sold {
+    margin-left: 0;
+  }
+}
+@media screen and (max-width: 1100px) and (min-width: 992px) {
+  .img-lamp {
+    margin-left: 30px;
+  }
+  .button-margin-top {
+    transform: translateX(30px);
+  }
+  .margin-to-top-two {
+    transform: translateX(27px);
+  }
+}
+@media screen and (max-width: 1100px) and (min-width: 1050px) {
+  .div-plant-card {
+    margin-left: -15px;
+  }
+  .plant-card {
+    width: 118px;
+    margin-left: 5px;
+  }
+  .div-sellers {
+    margin: -5px 0 0 -25px;
+    width: 245px;
+    padding: 14px 0 11px 0;
+  }
+  .div-margin-left {
+    transform: translateX(10px);
+  }
+  .div-line-center {
+    margin-left: 0;
+  }
+  .div-plant-sold {
+    margin-left: 0;
+  }
+}
+@media screen and (max-width: 1049px) and (min-width: 992px) {
+  .div-plant-card {
+    margin-left: -15px;
+  }
+  .plant-card {
+    width: 114px;
+    margin-left: 3px;
+  }
+  .div-sellers {
+    margin: -5px 0 0 -25px;
+    width: 233px;
+    padding: 14px 5px 11px 0;
+  }
+  .div-margin-left {
+    transform: translateX(10px);
+  }
+  .div-line-center {
+    margin-left: 0;
+  }
+  .div-plant-sold {
+    margin-left: 0;
+  }
+  .div-inside-video {
+    width: 600px;
+  }
+  .p-long {
+    max-width: 380px;
+  }
+  .margin-to-top-two {
+    margin-left: 50px;
+  }
+}
+
+@media screen and (max-width: 1499px) and (min-width: 1321px) {
+  .p-long {
+    max-width: 600px;
+  }
+}
+@media screen and (max-width: 1320px) and (min-width: 1151px) {
+  .div-inside-video {
+    width: 600px;
+  }
+  .p-long {
+    max-width: 500px;
+  }
+}
+@media screen and (max-width: 1150px) and (min-width: 1050px) {
+  .div-inside-video {
+    width: 600px;
+  }
+  .p-long {
+    max-width: 420px;
+  }
+}
+
+@media screen and (max-width: 991px) and (min-width: 850px) {
+  .input-search {
+    margin-left: 50px;
+  }
+  .fa-magnifying-glass {
+    transform: translate(240px, -35px);
+  }
+  .div-inside-video {
+    max-width: 400px;
+    margin-top: -185px;
+  }
+  .button-top-sellers {
+    margin-left: -47px;
+  }
+  .img-lamp {
+    margin-left: 40px;
+  }
+  .div-my-stat i {
+    margin-left: 10px;
+  }
+  .div-my-stat a:hover i {
+    margin-left: 15px;
+  }
+  .button-margin-top {
+    transform: translateX(-7px);
+  }
+  .button-margin-top-two {
+    transform: translateX(-3px);
+  }
+  .margin-to-top-two {
+    transform: translateX(-8px);
+  }
+  .p-listings-three {
+    margin-left: -20px;
+  }
+  .div-margin-left {
+    margin-left: -28px;
+  }
+  .div-to-margin-top,
+  .div-to-margin-top-two {
+    margin-top: 20px;
+  }
+  .div-sellers {
+    width: 105%;
+  }
+  .div-plant-card {
+    margin-left: -55px;
+  }
+  .plant-card {
+    margin-left: 45px;
+  }
+}
+
+@media screen and (max-width: 849px) and (min-width: 768px) {
+  .input-search {
+    margin-left: 20px;
+  }
+  .fa-magnifying-glass {
+    transform: translate(210px, -35px);
+  }
+  .div-inside-video {
+    max-width: 350px;
+    margin-top: -185px;
+  }
+  .button-top-sellers {
+    margin-left: -25px;
+  }
+  .img-lamp {
+    margin-left: 40px;
+  }
+  .div-my-stat i {
+    margin-left: 5px;
+  }
+  .div-my-stat a:hover i {
+    margin-left: 10px;
+  }
+  .button-margin-top {
+    transform: translateX(-7px);
+  }
+  .button-margin-top-two {
+    transform: translateX(-3px);
+  }
+  .margin-to-top-two {
+    transform: translateX(-8px);
+  }
+  .p-listings-three {
+    margin-left: -20px;
+  }
+  .div-margin-left {
+    margin-left: -28px;
+  }
+  .div-to-margin-top,
+  .div-to-margin-top-two {
+    margin-top: 20px;
+  }
+  .div-sellers {
+    width: 105%;
+  }
+  .div-plant-card {
+    margin-left: -25px;
+  }
+}
+
+@media screen and (max-width: 767px) and (min-width: 576px) {
+  .input-search {
+    margin-left: -50px;
+    padding: 12px 25px 12px 25px;
+  }
+  .fa-magnifying-glass {
+    transform: translateX(-30px);
+  }
+  .div-stat-left {
+    margin: 50px 0 0 10px !important;
+  }
+  .button-top-sellers {
+    margin-left: -50px;
+  }
+  .button-margin-top {
+    transform: translateX(-7px);
+  }
+  .button-margin-top-two {
+    transform: translateX(-3px);
+  }
+  .margin-to-top-two {
+    transform: translateX(-8px);
+  }
+  .p-listings-three {
+    margin-left: -20px;
+  }
+  .div-margin-left {
+    margin-left: -28px;
+  }
+  .div-to-margin-top,
+  .div-to-margin-top-two {
+    margin-top: 20px;
+  }
+  .div-sellers {
+    width: 108%;
+  }
+  .div-plant-card {
+    margin-left: -25px;
+  }
+}
+@media screen and (max-width: 575px) {
+  body {
+    overflow-x: hidden;
+  }
+}
+@media screen and (max-width: 575px) and (min-width: 400px) {
+  .div-body {
+    margin-left: 25px;
+  }
+  .div-between {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 5px;
+  }
+  .input-search {
+    margin-left: -243px;
+    transform: translateY(70px);
+    position: absolute;
+    width: 90.9%;
+  }
+  .fa-magnifying-glass {
+    transform: translate(180px, 84px);
+  }
+  .div-video-plant {
+    margin-top: 50px;
+  }
+  .button-top-sellers {
+    position: absolute;
+    margin: -42px 0 0 120px;
+  }
+  .div-stat-left {
+    margin: 50px 0 0 10px !important;
+  }
+  .div-my-stat {
+    width: 390px;
+    height: 210px;
+  }
+  .img-plant-stat {
+    margin: -160px 0 0 250px;
+  }
+  .div-plant-stat-right {
+    margin-left: 70px;
+  }
+  .plant-card {
+    margin-left: 5px;
+    flex: 1 1 auto;
+    max-width: 225px;
+  }
+  .plant-card:nth-child(3),
+  .plant-card:nth-child(4) {
+    margin-top: 10px;
+  }
+  .div-plant-card {
+    margin-left: -15px;
+    flex-flow: row wrap;
+  }
+  .button-margin-top {
+    transform: translateX(-7px);
+  }
+  .button-margin-top-two {
+    transform: translateX(-3px);
+  }
+  .margin-to-top-two {
+    transform: translateX(-8px);
+  }
+  .p-listings-three {
+    margin-left: -20px;
+  }
+  .div-margin-left {
+    margin-left: -28px;
+  }
+  .div-to-margin-top,
+  .div-to-margin-top-two {
+    margin-top: 20px;
+  }
+  .div-sellers {
+    width: 105%;
+  }
+}
+@media screen and (max-width: 400px) and (min-width: 350px) {
+  .div-body {
+    margin-left: 25px;
+  }
+  .div-between {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 5px;
+  }
+  .input-search {
+    margin-left: -157px;
+    transform: translateY(110px);
+    position: absolute;
+    width: 88%;
+  }
+  .fa-magnifying-glass {
+    transform: translate(140px, 129px);
+  }
+  .div-video-plant {
+    margin-top: 50px;
+  }
+  .div-inside-video {
+    margin-top: -200px;
+  }
+  .button-top-sellers {
+    position: absolute;
+    margin: -42px 0 0 120px;
+  }
+  .div-stat-left {
+    margin: 50px 0 0 10px !important;
+  }
+  .div-my-stat {
+    width: 260px;
+    height: 210px;
+  }
+  .img-plant-stat {
+    margin: -160px 0 0 140px;
+  }
+  .plant-card {
+    margin-left: 5px;
+    flex: 1 1 auto;
+    max-width: 160px;
+  }
+  .plant-card:nth-child(3),
+  .plant-card:nth-child(4) {
+    margin-top: 10px;
+  }
+  .div-plant-card {
+    margin-left: -15px;
+    flex-flow: row wrap;
+  }
+  .button-margin-top {
+    transform: translateX(-7px);
+  }
+  .button-margin-top-two {
+    transform: translateX(-3px);
+  }
+  .margin-to-top-two {
+    transform: translateX(-8px);
+  }
+  .p-listings-three {
+    margin-left: -20px;
+  }
+  .div-margin-left {
+    margin-left: -28px;
+  }
+  .div-to-margin-top,
+  .div-to-margin-top-two {
+    margin-top: 20px;
+  }
+  .div-sellers {
+    width: 105%;
+    padding: 14px 15px 11px 10px;
+  }
+}
+@media screen and (max-width: 349px) {
+  .div-body {
+    margin-left: 25px;
+  }
+  .div-between {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 5px;
+  }
+  .input-search {
+    margin-left: -97px;
+    transform: translateY(150px);
+    position: absolute;
+    width: 85%;
+  }
+  .fa-magnifying-glass {
+    transform: translate(130px, 164px);
+  }
+  .div-video-plant {
+    margin-top: 50px;
+  }
+  .div-inside-video {
+    margin: -200px 0 0 -5px;
+    max-width: 250px;
+  }
+  .button-top-sellers {
+    position: absolute;
+    margin: -42px 0 0 120px;
+  }
+  .div-stat-left {
+    margin: 50px 0 0 10px !important;
+  }
+  .div-plant-stat-right {
+    margin-left: 20px;
+  }
+  .img-plant-stat {
+    margin: 40px 0 0 20px;
+  }
+  .img-lamp {
+    margin-left: 0;
+    height: 500px;
+  }
+  .plant-card {
+    margin: 10px 0 0 5px;
+    flex: 1 1 auto;
+    max-width: 260px;
+  }
+  .div-plant-card {
+    margin-left: -15px;
+    flex-flow: row wrap;
+  }
+  .button-margin-top {
+    transform: translateX(-7px);
+  }
+  .button-margin-top-two {
+    transform: translateX(-3px);
+  }
+  .margin-to-top-two {
+    transform: translateX(-8px);
+  }
+  .p-listings-three {
+    margin-left: -20px;
+  }
+  .div-margin-left {
+    margin-left: -28px;
+  }
+  .div-to-margin-top,
+  .div-to-margin-top-two {
+    margin-top: 20px;
+  }
+  .div-sellers {
+    width: 113%;
+    padding: 14px 15px 11px 5px;
+  }
+  .div-line-center {
+    margin-left: 5px;
+  }
+  .div-plant-sold {
+    margin-left: 5px;
+  }
+}
